@@ -1,3 +1,4 @@
+# One for All
 ## Introduction
 Tired of Coding the same codes in C again and again? This repo is responsibly designed for functions callup so you don't have to do heavy coding in the deployment of any program. 
 
